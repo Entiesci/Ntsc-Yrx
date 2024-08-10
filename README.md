@@ -1,5 +1,5 @@
 
-![ntsc-yrx's github stats](https://github-readme-stats.vercel.app/api?username=ntsc-yrx "![ntsc-yrx's github stats")]
+![ntsc-yrx's github stats](https://github-readme-stats.vercel.app/api?username=ntsc-yrx "![ntsc-yrx's github stats")
 
 
 - 👋 Hi, I’m @Ntsc-Yrx, you can also call me Chargcia /tʃɑ:sɪə/
