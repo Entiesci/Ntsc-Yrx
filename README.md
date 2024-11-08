@@ -1,8 +1,8 @@
 
-![ntsc-yrx's github stats](https://github-readme-stats.vercel.app/api?username=ntsc-yrx "![ntsc-yrx's github stats")
+![entiesci's github stats](https://github-readme-stats.vercel.app/api?username=entiesci "![entiesci's github stats")
 
 
-Hi, I’m @Ntsc-Yrx
+Hi, I’m @entiesci
 Interest in UI designing and study new knowledge!
 I’m currently learning more about C++ programming.
 
